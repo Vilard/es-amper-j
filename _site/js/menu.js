@@ -3,10 +3,9 @@ $(document).ready(function() {
     $('.trigger').slideToggle(500);
   });//end slide toggle
   
-  $(window).resize(function() {		
-		if (  $(window).width() > 1024 ) {			
-			$('.trigger').removeAttr('style');
-		 }
+ //  $(window).resize(function() {		
+	// 	if (  $(window).width() > 800 ) {			
+	// 		$('.trigger').removeAttr('style');
+	// 	 }
 	});//end resize
-	$('') 
-});//end ready
+	// $('')

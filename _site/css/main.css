@@ -112,16 +112,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(886px - (30px * 2));
-  max-width: calc(886px - (30px * 2));
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(886px - (30px));
-      max-width: calc(886px - (30px));
+      max-width: -webkit-calc(800px - (30px));
+      max-width: calc(800px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -138,11 +138,17 @@ pre {
  */
 .icon > svg {
   display: inline-block;
-  width: 16px;
-  height: 16px;
+  width: 30px;
+  height: 30px;
+  margin-right: 7px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #fff; }
+
+.copyrigth {
+  display: block;
+  float: right;
+  color: #fff; }
 
 /**
  * Site header
@@ -152,9 +158,34 @@ pre {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background: linear-gradient(to right, #009acf 0%, #000000 52%);
-  /*color: #fff;*/
   position: fixed;
   width: 100%; }
+
+header .contact-header {
+  display: block;
+  color: #fff;
+  float: right;
+  padding-top: 15px; }
+  header .contact-header .phone {
+    display: inline-block; }
+    header .contact-header .phone #Capa_1 {
+      width: 13px;
+      height: 13px; }
+  @media screen and (max-width: 800px) {
+    header .contact-header {
+      display: none; } }
+header .phone {
+  display: none; }
+  @media screen and (max-width: 800px) {
+    header .phone {
+      display: block;
+      float: left;
+      margin-top: 14px;
+      margin-right: 15px;
+      margin-left: 8px; }
+      header .phone #Capa_1 {
+        width: 23px;
+        height: 23px; } }
 
 .site-title {
   font-size: 1.5rem;
@@ -163,6 +194,9 @@ pre {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
+  @media screen and (max-width: 360px) {
+    .site-title {
+      font-size: 1.2rem; } }
   .site-title, .site-title:visited {
     color: #fff; }
 
@@ -181,10 +215,7 @@ pre {
     .site-nav {
       float: none;
       right: 15px;
-      /*background-color: $menu-color;*/
-      /*border: 2px solid $grey-color-light;*/
       border-radius: 5px;
-      /*text-align: right;*/
       font-size: 1.3rem; }
       .site-nav .menu-icon {
         margin-top: 9px;
@@ -204,8 +235,7 @@ pre {
             fill: #fff; }
       .site-nav .trigger {
         clear: both;
-        display: none;
-        /*width: 30%;*/ }
+        display: none; }
       .site-nav .page-link {
         display: block;
         padding: 5px 10px;
@@ -213,11 +243,79 @@ pre {
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
 
+.gallery {
+  display: block; }
+  .gallery .fpage {
+    max-width: 45%;
+    float: left;
+    margin: 2.5%; }
+    @media screen and (max-width: 360px) {
+      .gallery .fpage {
+        max-width: 100%; } }
+  .gallery figure .center {
+    margin: auto;
+    margin-top: 30px; }
+  .gallery figure img {
+    box-shadow: 1px 1px 7px 0px rgba(0, 0, 0, 0.75); }
+  .gallery figure figcaption {
+    padding: 15px 0 0 0;
+    text-align: center; }
+
+table {
+  border-collapse: collapse;
+  width: 100%; }
+  table .tablehead {
+    background-color: #555;
+    color: #fff; }
+  table td, table th {
+    border: 1px solid black;
+    padding: 8px;
+    /*margin: 1%;*/
+    text-align: left; }
+  table th {
+    height: 38px; }
+
+.advanced {
+  padding: 20px;
+  box-shadow: 0px 0px 10px 5px #c7c7c7;
+  width: auto;
+  float: left; }
+  @media screen and (max-width: 800px) {
+    .advanced {
+      padding-left: 0;
+      padding-right: 0;
+      box-shadow: unset; } }
+  .advanced .lable_name {
+    font-size: 0.8em; }
+  .advanced .col1 {
+    float: left;
+    width: 60%; }
+  .advanced .col2 {
+    float: right;
+    width: 35%; }
+  .advanced select, .advanced input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 0.9em; }
+
+.col3 {
+  display: block;
+  padding-top: 20px; }
+  .col3 #advanced_result {
+    margin: 30px 0;
+    width: 60%; }
+  .col3 .price {
+    margin: 30px 0;
+    float: right; }
+
 iframe {
   margin-left: 5%;
   width: 90%;
   min-width: 231px;
-  height: 70vh; }
+  max-height: 506px;
+  min-height: 300px;
+  height: 45vh; }
 
 /**
  * Site bar
@@ -225,12 +323,28 @@ iframe {
 aside {
   width: auto;
   float: right; }
+  @media screen and (max-width: 800px) {
+    aside {
+      display: none; } }
 
 /**
  * Site footer
  */
 footer {
   background-color: #000; }
+  footer .phone #Capa_1 {
+    height: 15px;
+    width: 15px; }
+  footer .page-heading {
+    display: none; }
+    @media screen and (max-width: 800px) {
+      footer .page-heading {
+        display: block;
+        width: auto;
+        margin: 0;
+        float: right;
+        font-size: 1rem;
+        clear: both; } }
 
 .site-footer {
   border-top: 1px solid #e8e8e8;
@@ -246,14 +360,16 @@ footer {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 15px;
-  color: #828282;
+  color: #fff;
   margin-left: -15px; }
 
 .footer-col {
   float: left;
   margin-bottom: 15px;
   padding-left: 15px; }
+  @media screen and (max-width: 800px) {
+    .footer-col {
+      width: 50%; } }
 
 .footer-col-1 {
   width: -webkit-calc(35% - (30px / 2));
@@ -285,6 +401,7 @@ footer {
  * Page content
  */
 .page-content {
+  min-height: calc(100vh - 189px);
   padding: 30px 0; }
 
 .page-heading {
@@ -314,11 +431,14 @@ footer {
  */
 .post {
   margin-top: 120px;
-  width: 65%;
+  width: 70%;
   float: left; }
   @media screen and (max-width: 800px) {
     .post {
       margin-top: 54px; } }
+  @media screen and (max-width: 800px) {
+    .post {
+      width: 100%; } }
 
 .post-header {
   margin-bottom: 30px; }
@@ -333,11 +453,10 @@ footer {
 
 .post-content {
   margin-bottom: 30px;
-  /*margin-top: $spacing-unit*2;
-      @include media-query($on-laptop) {
-          margin-top: $spacing-unit*6;
-      }
-  */ }
+  margin-top: 30px; }
+  @media screen and (max-width: 800px) {
+    .post-content {
+      margin-top: 30px; } }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {

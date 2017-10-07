@@ -7,7 +7,7 @@
 
 # Site settings
 title: Электрик г. Череповец
-email: your-email@domain.com
+# email: your-email@domain.com
 tel: 88202742405
 # description: > # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
@@ -17,6 +17,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://es-amper.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
+vk: vkontakte
+im: instagram
+
 
 # Build settings
 markdown: kramdown

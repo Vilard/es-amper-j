@@ -17,6 +17,7 @@ $spacing-unit:     30px;
 $text-white-color: #fff;
 $text-color:       #111;
 $background-color: #fdfdfd;
+$tablehead:        #555;
 $gradient:		   linear-gradient(to right, #009acf 0%, #000000 52%);	
 $menu-color:       #555;
 $menu-icon-color:  #000;
@@ -29,11 +30,11 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    886px;
+$content-width:    800px;
 
 $on-palm:          800px;
 $on-laptop:        800px;
-
+$on-small:		   360px;
 
 
 // Use media queries like this:

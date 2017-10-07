@@ -5,35 +5,35 @@
     <description></description>
     <link>http://es-amper.com/</link>
     <atom:link href="http://es-amper.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Sep 2017 15:14:07 +0200</pubDate>
-    <lastBuildDate>Tue, 26 Sep 2017 15:14:07 +0200</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2017 17:07:01 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2017 17:07:01 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Спутниковое ТВ</title>
+        <description>&lt;p&gt;Немного предистории.
+Поступила заявка, на суть которой сводилась к тому что не работает варочная панель как надо.
+Выяснилось что квартира после ремонта, люди только заехали и оставались мелкие недоделки, естественно у хозяина квартиры оставались не некоторые вопросы технического характера.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Один из вопросов касался спутникового ТВ, и звучал он примерно так, “нам вывели кабель, вы можете поставить тарелку?”, несмотря на то что такими вещами мы не занимаемся, решил провести предварительный осмотр и помочь советом и дать телефон того, кто этим занимается.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Дальше началось самое интересное, но перед тем как мы продолжим, необходимо рассказать немного теории, для того чтобы было понятно, о чем собственно идет речь.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Ответить придется на вопрос “где”, а именно где находятся спутники с которых мы можем получить сигнал для тв?&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Спутники вращаются вокруг земли на гео-стационарной орбите, над экватором планеты. Соответственно если мы находимся в северном полушарии, спутники будут находиться на юге, если в южном полушарии, то спутники на севере.&lt;/p&gt;
+
+&lt;p&gt;Первым делом что требовалось выяснить, где находятся стороны света, выяснилось, что кабель был выведен на северную сторону, так как спутники находятся на юге, целесообразности в установке тарелки на северной стороне нет, также нет возможности осуществить перенос кабеля на южную сторону, так как уже сделанна чистовая отделка.&lt;/p&gt;
+
+&lt;p&gt;Выбирайте грамотных подрядчиков для ремонта, желательно брать узко профильных специалистов, возможно будет это немного дороже, но специалисты обычно в вопросе разбираются лучше, чем не специалисты.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 22 Sep 2017 23:50:05 +0200</pubDate>
-        <link>http://es-amper.com/jekyll/update/2017/09/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://es-amper.com/jekyll/update/2017/09/22/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 01 Oct 2017 22:50:05 +0200</pubDate>
+        <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/10/01/setellite-tv.html</link>
+        <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/10/01/setellite-tv.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>электропроводка</category>
         
       </item>
     
@@ -52,9 +52,9 @@
 &lt;/p&gt;
 &lt;p&gt;Моменты с расключением и пайкой коробок во внимание приниматься не будут, так как в обоих случаях будут одинаковыми.&lt;/p&gt;
 &lt;div class=&quot;gallery&quot;&gt;
-&lt;figure&gt;
-&lt;img src=&quot;../photo/13.png&quot; alt=&quot;План комнаты&quot; /&gt;
-&lt;figcaption class=&quot;center&quot;&gt;План гипотетической комнаты.&lt;/figcaption&gt;
+&lt;figure class=&quot;fpost&quot;&gt;
+&lt;img src=&quot;../../../../photo/13.png&quot; alt=&quot;План комнаты&quot; /&gt;
+&lt;figcaption&gt;План гипотетической комнаты.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 &lt;h3&gt;Работы и материал по потолку&lt;/h3&gt;
@@ -117,12 +117,110 @@
 &lt;p&gt;Отличие очевидно, разница почти 1,5 тысячи, но это только финансовая сторона замены в одной комнате, если замена будет произведена во всей квартире, это существенно сэкономит вам бюджет, есть и другие моменты которые могут вылиться в неприятную неожиданность.&lt;/p&gt;
 &lt;p&gt;При монтаже проводки по полу, например при прикручивании плинтусов, можно попасть в провод, так как его не видно, в итоге нужно снять ламинат или другое чистовое покрытие, вскрыть пол и поменять провод, после замены провода придеться поменять обои, в случае с потолком, при монтаже багета натяжного потолка, провод видно, поэтому пробить его можно только намеренно, и даже в этом случае придется поменять только обои, после демонтажа и замены провода.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Sep 2017 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
         <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/ceiling-or-floor.html</link>
         <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/ceiling-or-floor.html</guid>
         
         
         <category>электропроводка</category>
+        
+      </item>
+    
+      <item>
+        <title>Замена проводки</title>
+        <description>&lt;p&gt;Следует пояснить что данный вид работ относиться к капитальному ремонту и обои после &lt;strong&gt;замены электропроводки&lt;/strong&gt; придется поменять.&lt;/p&gt;
+&lt;h3&gt;Планирование:&lt;/h3&gt;
+&lt;p&gt;Итак с чего же все начинается &lt;strong&gt;замена проводки&lt;/strong&gt;. Начинается все с планировки. Вам необходимо определиться с расстановкой бытовой техники. Нарисовать где будут стоять электроприборы(холодильник, телевизор, стиральная машина, компьютер и т.д.).&lt;/p&gt;
+&lt;p&gt;Ваш рисунок - это будущая основа того, где у вас будут стоять розетки и выключатели.&lt;/p&gt;
+&lt;p&gt;Далее озвучьте свои пожелания &lt;strong&gt;электрику&lt;/strong&gt;, он задаст дополнительные вопросы и посчитает сколько купить материала.&lt;/p&gt;
+&lt;h3&gt;Закупка материала.&lt;/h3&gt;
+&lt;p&gt;В большинстве случаев заказчик не знает какой, материал покупать, поэтому спрашивают у электрика, &quot;что купить&quot; и потом покупают зачастую не то что было необходимо. Бывали случаи когда люди тратили приличные деньги, закупая материал заранее, в итоге теряли на этом время, нервы и деньги. 
+&lt;p&gt;Именно поэтому предлагаем заказчику два варианта на выбор. Покупка материала вместе с заказчиком или покупка материала без заказчика.&lt;/p&gt;
+&lt;p&gt; При покупке материала без участия заказчика есть определенные преимущества, например экономия времени заказчика.&lt;/p&gt; 
+&lt;p&gt;В этих случаях ошибки при покупке исключаются. &lt;/p&gt;
+&lt;h3&gt;Замена электропроводки.&lt;/h3&gt;
+&lt;p&gt;На данном этапе примерно все известно. Почему примерно, спросите вы? Зачастую вносятся, корректировки в первоначальный план, что-то убирается, что-то добавляется, соответственно корректируется объем работ, материалов, сроки и цена. &lt;p&gt;
+&lt;p&gt;По срокам, &lt;strong&gt;замена проводки в квартире&lt;/strong&gt;, обычно варьируется от 4-14 дней. Зависит от стесненности условий(меблированная квартира, жилая квартира) и объема работ.&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
+        <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/Replacement-of-wiring.html</link>
+        <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/Replacement-of-wiring.html</guid>
+        
+        
+        <category>электропроводка</category>
+        
+      </item>
+    
+      <item>
+        <title>Замена счетчика</title>
+        <description>&lt;p&gt;Существует несколько причин замены электросчетчика, наиболее распространенные это поломка счетчика и несоответствие классу точности счетчика.
+&lt;h3&gt;Типы счетчиков.&lt;/h3&gt;
+&lt;p&gt;Существует два типа электросчетчиков: индукционные и электронные.
+Индукционными в народе принято называть &quot;дисковые счетчики&quot;, такие счетчики обычно подлежат замене.
+Электронные счетчики в последнее время приобрели широкое распространение.&lt;/p&gt;
+&lt;h3&gt;Чем отличаются счетчики?&lt;/h3&gt;
+&lt;p&gt;Отличаются счетчики по способу монтажа, существует 2 типа креплений: винтовые и на DIN-рейку.
+На самом деле, классифицировать электросчетчики можно по достаточно большому количеству параметров, для простоты ниже будут приведены модели которые рекомендуются к покупке.&lt;/p&gt;
+&lt;h3&gt;Какой счетчик купить?&lt;/h3&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;figure&gt;
+    &lt;img class=&quot;center&quot; src=&quot;../../../../img/merc201.png&quot; alt=&quot;Электромонтажные работы в квартире&quot; /&gt;
+    &lt;figcaption&gt;Меркурий 201&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;img class=&quot;center&quot; src=&quot;../../../../img/mercplate.png&quot; alt=&quot;Монтажная пластина&quot; /&gt;
+    &lt;figcaption&gt;Монтажная пластина для Меркурий 201&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Меркурий 201 - универсальный счетчик, его можно крепить как на DIN-рейку так и винтами, для монтажа винтами следует купить монтажную пластину или DIN-рейку для крепежа на рейку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;figure&gt;
+    &lt;img class=&quot;center&quot; src=&quot;../../../../img/neva1s0.png&quot; alt=&quot;Нева 101&quot; /&gt;
+    &lt;figcaption&gt;Нева 101&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/neva103.png&quot; alt=&quot;Нева 103&quot; /&gt;
+  	&lt;figcaption&gt;Нева 103&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Нева 101 1S0 - данный счетчик устанавливается только на винты, никаких дополнительных комплектующих не требуется при установке в этажном щите.&lt;/li&gt;
+  &lt;li&gt;Нева 103 - устанавливается только на DIN-рейку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;figure&gt;
+  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/ce101.png&quot; alt=&quot;CE 101&quot; /&gt;
+  	&lt;figcaption&gt;CE 101&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/ce200s6.png&quot; alt=&quot;CE 200 S6&quot; /&gt;
+  	&lt;figcaption&gt;CE 200 S6&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;CE 101-R5 и CE 101-R5.1 крепятся на DIN-рейку.&lt;/li&gt;
+  &lt;li&gt;CE200-S4 и CE200-S6 крепятся винтами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DIN-рейка выглядит следующим образом.&lt;/p&gt;
+&lt;div class=&quot;gallery&quot;&gt;
+  &lt;figure&gt;
+    &lt;img class=&quot;center&quot; src=&quot;../../../../img/DINl.png&quot; alt=&quot;DIN-рейка&quot; /&gt;
+    &lt;figcaption&gt; DIN-рейка.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Как вы уже поняли при покупке электросчетчика крепящемуся на винты дополнительные комплектующие не требуются кроме электросчетчика Меркурий. 
+Счетчики Нева и CE имеют гарантию 5 лет, Меркурий 3 года.&lt;/p&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
+        <link>http://es-amper.com/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%B8/2017/09/22/Replacement-of-electricity-meters.html</link>
+        <guid isPermaLink="true">http://es-amper.com/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%B8/2017/09/22/Replacement-of-electricity-meters.html</guid>
+        
+        
+        <category>Электросчетчики</category>
         
       </item>
     

@@ -195,12 +195,18 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 30px;
+        height: 30px;
+        margin-right: 7px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $text-white-color;
         }
     }
+}
+.copyrigth {
+    display: block;
+    float: right;
+    color: $text-white-color;
 }

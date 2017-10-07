@@ -1,9 +1,13 @@
 <header class="site-header">
 
   <div class="wrapper">
+    
+    {% include icon-phone.html username=site.phone %}
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <a class="site-title" href="{{ site.baseurl }}/main">{{ site.title }}</a>
+    
+    <div class="contact-header">{% include icon-phone.html username=site.phone %}  8(8202)74-24-05</div>
+    
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">

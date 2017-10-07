@@ -13,3 +13,20 @@ layout: default
   </div>
 
 </article>
+
+<aside>
+  <div class="home">
+
+    <a href="{{ site.baseurl }}/"><h1 class="page-heading">Статьи</h1></a>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>	
+</aside>

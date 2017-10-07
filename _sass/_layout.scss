@@ -6,11 +6,42 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
     background: $gradient;
-    /*color: #fff;*/
-    // Positioning context for the mobile navigation icon
     position: fixed;
     width: 100%;
 }
+header {
+    .contact-header{
+        display:block;
+        color: $text-white-color;
+        float: right;
+        padding-top: 15px;
+        .phone{
+            display: inline-block;
+            #Capa_1 {
+                width: 13px;
+                height: 13px;
+            }
+            }
+            @include media-query ($on-palm) {
+                display:none;
+        }    
+    }
+    .phone {
+        display: none;
+        @include media-query($on-palm) {
+            display: block;
+            float: left;
+            margin-top: 14px;
+            margin-right: 15px;
+            margin-left: 8px;
+            #Capa_1 {
+                width: 23px;
+                height: 23px;
+            }
+        }
+    }
+}
+
 
 .site-title {
     font-size: 1.5rem;
@@ -19,7 +50,9 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    @include media-query ($on-small){
+        font-size: 1.2rem;
+    }
     &,
     &:visited {
         color: $text-white-color;
@@ -37,8 +70,6 @@
     .page-link {
         color: $text-white-color;
         line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 10px;
         }
@@ -47,10 +78,7 @@
     @include media-query($on-palm) {
         float: none;
         right: $spacing-unit / 2;
-        /*background-color: $menu-color;*/
-        /*border: 2px solid $grey-color-light;*/
         border-radius: 5px;
-        /*text-align: right;*/
         font-size: 1.3rem;
         .menu-icon {
             margin-top: 9px;
@@ -75,7 +103,6 @@
         .trigger {
             clear: both;
             display: none;
-            /*width: 30%;*/
         }
 
         .page-link {
@@ -90,11 +117,101 @@
     }
 }
 
+.gallery {
+    display: block;
+    .fpage {
+        max-width: 45%;
+        float: left;
+        margin: 2.5%;
+        @include media-query ($on-small) {
+            max-width: 100%;
+        }
+    }    
+    figure {
+        .center{
+            margin: auto;
+            margin-top: $spacing-unit;
+        }
+        img {
+            box-shadow: 1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+        }
+        figcaption {
+            padding: 15px 0 0 0;
+            text-align: center;
+        }
+    }
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    .tablehead {
+        background-color: $tablehead;
+        color: $text-white-color;
+    }
+     
+    td, th {
+        border: 1px solid black;
+        padding: 8px;
+        /*margin: 1%;*/
+        text-align: left;
+    }
+    th {
+        height: 38px;
+    }
+}
+
+.advanced {
+    // margin: 0 20px 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 5px #c7c7c7;
+    width: auto;
+    float: left;
+    @include media-query($on-laptop) {
+        padding-left: 0;
+        padding-right:0;
+        box-shadow: unset;
+    }
+   .lable_name {
+        font-size: 0.8em;
+    
+    }
+    .col1 {
+        float: left;
+        width: 60%;
+    }
+    .col2 {
+        float: right;
+        width: 35%;
+    }
+    select, input {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 5px;
+        font-size: 0.9em;
+    }
+}
+.col3{
+    display: block;
+    padding-top: 20px;
+    #advanced_result {
+        margin:$spacing-unit 0;
+        width: 60%;
+    }
+     .price {
+        margin:$spacing-unit 0;
+        float:  right;
+    }
+}
+
 iframe {
   margin-left: 5%;
   width: 90%;
   min-width: 231px;
-  height: 70vh;
+  max-height: 506px;
+  min-height: 300px;
+  height: 45vh;
 }
 
 /**
@@ -104,6 +221,9 @@ iframe {
 aside {
     width: auto;
     float: right;
+    @include media-query($on-palm) {
+        display: none;
+    }
 }
 
 /**
@@ -112,6 +232,26 @@ aside {
 
 footer {
     background-color: $bg-footer;
+    .phone {
+       #Capa_1 {
+        height: 15px;
+        width: 15px;
+        }
+    }
+    .page-heading {
+        display: none;
+        @include media-query ($on-palm) {
+            display: block;
+            width: auto;
+            margin: 0;
+            float: right;
+            font-size: 1rem;
+            clear: both;
+        }
+        
+
+    }
+
 }
 
 .site-footer {
@@ -128,11 +268,12 @@ footer {
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
+    // font-size: 1rem;
+    color: $text-white-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -141,6 +282,9 @@ footer {
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    @include media-query($on-palm) {
+        width: 50%;
+    }
 }
 
 .footer-col-1 {
@@ -185,6 +329,7 @@ footer {
  * Page content
  */
 .page-content {
+    min-height: calc(100vh - 189px);
     padding: $spacing-unit 0;
 }
 
@@ -224,12 +369,14 @@ footer {
 
 .post {
     margin-top: $spacing-unit*4;
-    width: 65%;
+    width: 70%;
     float: left;
         @include media-query($on-laptop) {
             margin-top: $spacing-unit*1.8;
         }
-
+        @include media-query($on-palm) {
+            width: 100%;
+        }
 }
 .post-header {
     margin-bottom: $spacing-unit;
@@ -247,11 +394,11 @@ footer {
 
 .post-content {
     margin-bottom: $spacing-unit;
-    /*margin-top: $spacing-unit*2;
+    margin-top: $spacing-unit;
         @include media-query($on-laptop) {
-            margin-top: $spacing-unit*6;
+            margin-top: $spacing-unit;
         }
-    */    
+        
     h2 {
         font-size: 32px;
 
