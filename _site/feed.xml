@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Электрик г. Череповец</title>
-    <description></description>
-    <link>http://es-amper.com/</link>
-    <atom:link href="http://es-amper.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Oct 2017 17:07:01 +0200</pubDate>
-    <lastBuildDate>Sat, 07 Oct 2017 17:07:01 +0200</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <description>Замена и монтаж электропроводки</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Dec 2017 19:39:53 +0300</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2017 19:39:53 +0300</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Спутниковое ТВ</title>
         <description>&lt;p&gt;Немного предистории.
-Поступила заявка, на суть которой сводилась к тому что не работает варочная панель как надо.
+Поступила заявка, суть которой сводилась к тому что не работает варочная панель как надо.
 Выяснилось что квартира после ремонта, люди только заехали и оставались мелкие недоделки, естественно у хозяина квартиры оставались не некоторые вопросы технического характера.&lt;/p&gt;
 
 &lt;p&gt;Один из вопросов касался спутникового ТВ, и звучал он примерно так, “нам вывели кабель, вы можете поставить тарелку?”, несмотря на то что такими вещами мы не занимаемся, решил провести предварительный осмотр и помочь советом и дать телефон того, кто этим занимается.&lt;/p&gt;
@@ -28,12 +28,12 @@
 &lt;p&gt;Выбирайте грамотных подрядчиков для ремонта, желательно брать узко профильных специалистов, возможно будет это немного дороже, но специалисты обычно в вопросе разбираются лучше, чем не специалисты.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 01 Oct 2017 22:50:05 +0200</pubDate>
-        <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/10/01/setellite-tv.html</link>
-        <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/10/01/setellite-tv.html</guid>
+        <pubDate>Sun, 01 Oct 2017 23:50:05 +0300</pubDate>
+        <link>http://localhost:4000/wiring/2017/10/01/setellite-tv.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/10/01/setellite-tv.html</guid>
         
         
-        <category>электропроводка</category>
+        <category>wiring</category>
         
       </item>
     
@@ -117,12 +117,12 @@
 &lt;p&gt;Отличие очевидно, разница почти 1,5 тысячи, но это только финансовая сторона замены в одной комнате, если замена будет произведена во всей квартире, это существенно сэкономит вам бюджет, есть и другие моменты которые могут вылиться в неприятную неожиданность.&lt;/p&gt;
 &lt;p&gt;При монтаже проводки по полу, например при прикручивании плинтусов, можно попасть в провод, так как его не видно, в итоге нужно снять ламинат или другое чистовое покрытие, вскрыть пол и поменять провод, после замены провода придеться поменять обои, в случае с потолком, при монтаже багета натяжного потолка, провод видно, поэтому пробить его можно только намеренно, и даже в этом случае придется поменять только обои, после демонтажа и замены провода.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
-        <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/ceiling-or-floor.html</link>
-        <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/ceiling-or-floor.html</guid>
+        <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
+        <link>http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</guid>
         
         
-        <category>электропроводка</category>
+        <category>wiring</category>
         
       </item>
     
@@ -143,12 +143,12 @@
 &lt;p&gt;По срокам, &lt;strong&gt;замена проводки в квартире&lt;/strong&gt;, обычно варьируется от 4-14 дней. Зависит от стесненности условий(меблированная квартира, жилая квартира) и объема работ.&lt;/p&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
-        <link>http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/Replacement-of-wiring.html</link>
-        <guid isPermaLink="true">http://es-amper.com/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0/2017/09/22/Replacement-of-wiring.html</guid>
+        <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
+        <link>http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</guid>
         
         
-        <category>электропроводка</category>
+        <category>wiring</category>
         
       </item>
     
@@ -215,12 +215,12 @@
 Счетчики Нева и CE имеют гарантию 5 лет, Меркурий 3 года.&lt;/p&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
-        <link>http://es-amper.com/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%B8/2017/09/22/Replacement-of-electricity-meters.html</link>
-        <guid isPermaLink="true">http://es-amper.com/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%B8/2017/09/22/Replacement-of-electricity-meters.html</guid>
+        <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
+        <link>http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</link>
+        <guid isPermaLink="true">http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</guid>
         
         
-        <category>Электросчетчики</category>
+        <category>elecricity_meters</category>
         
       </item>
     

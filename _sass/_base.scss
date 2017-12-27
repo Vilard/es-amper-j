@@ -205,8 +205,15 @@ pre {
         }
     }
 }
+.footer-low-row {
+    display: block;
+    float:left;
+    width: 100%;
+}
 .copyrigth {
     display: block;
     float: right;
+    margin: 0;
     color: $text-white-color;
+    margin-left: $spacing-unit/2;
 }

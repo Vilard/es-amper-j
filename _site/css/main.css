@@ -145,10 +145,17 @@ pre {
   .icon > svg path {
     fill: #fff; }
 
+.footer-low-row {
+  display: block;
+  float: left;
+  width: 100%; }
+
 .copyrigth {
   display: block;
   float: right;
-  color: #fff; }
+  margin: 0;
+  color: #fff;
+  margin-left: 15px; }
 
 /**
  * Site header
@@ -194,7 +201,7 @@ header .phone {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 425px) {
     .site-title {
       font-size: 1.2rem; } }
   .site-title, .site-title:visited {
@@ -249,7 +256,7 @@ header .phone {
     max-width: 45%;
     float: left;
     margin: 2.5%; }
-    @media screen and (max-width: 360px) {
+    @media screen and (max-width: 425px) {
       .gallery .fpage {
         max-width: 100%; } }
   .gallery figure .center {
@@ -358,6 +365,18 @@ footer {
 .social-media-list {
   list-style: none;
   margin-left: 0; }
+
+.contact-footer {
+  display: block;
+  float: left;
+  padding-left: 15px; }
+  @media screen and (max-width: 800px) {
+    .contact-footer {
+      margin-left: 15px;
+      padding-left: 0; } }
+  @media screen and (max-width: 425px) {
+    .contact-footer {
+      float: right; } }
 
 .footer-col-wrapper {
   color: #fff;
