@@ -125,10 +125,13 @@ pre {
       padding-right: 15px;
       padding-left: 15px; } }
 
+.wrapper-content {
+  padding-left: 0; }
+
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after, .wrapper-content:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }
@@ -270,7 +273,8 @@ header .phone {
 
 table {
   border-collapse: collapse;
-  width: 100%; }
+  width: 100%;
+  font-size: 0.7em; }
   table .tablehead {
     background-color: #555;
     color: #fff; }
@@ -333,7 +337,12 @@ aside {
   @media screen and (max-width: 800px) {
     aside {
       display: none; } }
+  aside h3 {
+    font-size: 1.1em; }
 
+/**
+ * Site comment
+ */
 /**
  * Site footer
  */
@@ -421,7 +430,7 @@ footer {
  */
 .page-content {
   min-height: calc(100vh - 189px);
-  padding: 30px 0; }
+  padding: 15px 0; }
 
 .page-heading {
   font-size: 20px;
@@ -450,7 +459,7 @@ footer {
  */
 .post {
   margin-top: 120px;
-  width: 70%;
+  width: 60%;
   float: left; }
   @media screen and (max-width: 800px) {
     .post {
@@ -477,20 +486,25 @@ footer {
     .post-content {
       margin-top: 30px; } }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 1.7em; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
-        font-size: 28px; } }
+        font-size: 1.5em; } }
   .post-content h3 {
-    font-size: 26px; }
+    font-size: 1.5em; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
-        font-size: 22px; } }
+        font-size: 1.3em; } }
   .post-content h4 {
-    font-size: 20px; }
+    font-size: 1.4em; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18px; } }
+        font-size: 1.2em; } }
+  .post-content h5 {
+    font-size: 1.3em; }
+    @media screen and (max-width: 800px) {
+      .post-content h5 {
+        font-size: 1.1em; } }
 
 /**
  * Syntax highlighting styles

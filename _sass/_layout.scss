@@ -146,6 +146,7 @@ header {
 table {
     border-collapse: collapse;
     width: 100%;
+    font-size: 0.7em;
     .tablehead {
         background-color: $tablehead;
         color: $text-white-color;
@@ -224,7 +225,20 @@ aside {
     @include media-query($on-palm) {
         display: none;
     }
+    h3 {
+        font-size: 1.1em;
+    }
 }
+
+/**
+ * Site comment
+ */
+
+// .com {
+//     display:block;
+
+// }
+
 
 /**
  * Site footer
@@ -343,7 +357,7 @@ footer {
  */
 .page-content {
     min-height: calc(100vh - 189px);
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/2 0;
 }
 
 .page-heading {
@@ -382,7 +396,7 @@ footer {
 
 .post {
     margin-top: $spacing-unit*4;
-    width: 70%;
+    width: 60%;
     float: left;
         @include media-query($on-laptop) {
             margin-top: $spacing-unit*1.8;
@@ -413,26 +427,33 @@ footer {
         }
         
     h2 {
-        font-size: 32px;
+        font-size: 1.7em;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 1.5em;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 1.5em;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 1.3em;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 1.4em;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 1.2em;
+        }
+    }
+    h5 {
+        font-size: 1.3em;
+
+        @include media-query($on-laptop) {
+            font-size: 1.1em;
         }
     }
 }

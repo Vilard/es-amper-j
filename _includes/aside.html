@@ -1,0 +1,36 @@
+<aside>
+  <div class="home">
+
+    <a href="{{ site.baseurl }}/"><h1 class="page-heading">Статьи</h1></a>
+      
+    <ul class="post-list">
+        <li><h3>Проводка своими руками</h3></li>
+      {% for post in site.categories.HowToChangeWiring %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            
+          </h2>
+        </li>
+      {% endfor %}
+      <li><h3>Случаи из практики</h3></li>
+      {% for post in site.categories.wiring %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            
+          </h2>
+        </li>
+      {% endfor %}
+      <li><h3>Электросчетчики</h3></li>
+      {% for post in site.categories.elecricity_meters %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>  
+</aside>
