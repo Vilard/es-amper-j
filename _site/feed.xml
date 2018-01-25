@@ -5,8 +5,8 @@
     <description>Замена и монтаж электропроводки</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jan 2018 19:15:11 +0300</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2018 19:15:11 +0300</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 12:36:27 +0300</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 12:36:27 +0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -48,8 +48,8 @@
 
 </description>
         <pubDate>Fri, 29 Dec 2017 15:31:05 +0300</pubDate>
-        <link>http://localhost:4000/Enter</link>
-        <guid isPermaLink="true">http://localhost:4000/Enter</guid>
+        <link>http://localhost:4000/howtochangewiring/2017/12/29/EnterHowToChangeWiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/29/EnterHowToChangeWiring.html</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -70,8 +70,8 @@
 Причина установки щита в квартире достаточно проста, в этажный щит нет возможности вместить то количество необходимой автоматики которое необходимо для защиты кабелей, человека и аппаратуры. В случаях достаточного места возникают проблемы с протяжкой необходимого количества кабелей с существующих шахтах, но об этом будет в следующих статьях.&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/planing</link>
-        <guid isPermaLink="true">http://localhost:4000/planing</guid>
+        <link>http://localhost:4000/howtochangewiring/2017/12/28/PlaningHowToChangeWiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/28/PlaningHowToChangeWiring.html</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -97,8 +97,8 @@
 &lt;p&gt;Выключатели обычно удобнее всего располагать внутри комнаты со стороны дверной ручки, но в некоторых случаях есть исключения, одним из самых часто встречающихся это туалет и ванна.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/furniturePart1</link>
-        <guid isPermaLink="true">http://localhost:4000/furniturePart1</guid>
+        <link>http://localhost:4000/howtochangewiring/2017/12/27/furnitureP1HowToChangeWiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/27/furnitureP1HowToChangeWiring.html</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -149,8 +149,8 @@
 
 </description>
         <pubDate>Wed, 27 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/furniturePart2</link>
-        <guid isPermaLink="true">http://localhost:4000/furniturePart2</guid>
+        <link>http://localhost:4000/howtochangewiring/2017/12/27/furnitureP2HowToChangeWiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/27/furnitureP2HowToChangeWiring.html</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -177,39 +177,11 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/setelliteTV</link>
-        <guid isPermaLink="true">http://localhost:4000/setelliteTV</guid>
+        <link>http://localhost:4000/wiring/2017/10/01/setellite-tv.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/10/01/setellite-tv.html</guid>
         
         
         <category>wiring</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2017 00:50:05 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/09/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/09/23/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
@@ -296,8 +268,8 @@
 &lt;p&gt;При монтаже проводки по полу, например при прикручивании плинтусов, можно попасть в провод, так как его не видно, в итоге нужно снять ламинат или другое чистовое покрытие, вскрыть пол и поменять провод, после замены провода придеться поменять обои, в случае с потолком, при монтаже багета натяжного потолка, провод видно, поэтому пробить его можно только намеренно, и даже в этом случае придется поменять только обои, после демонтажа и замены провода.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/cellingOrFloor</link>
-        <guid isPermaLink="true">http://localhost:4000/cellingOrFloor</guid>
+        <link>http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</guid>
         
         
         <category>wiring</category>
@@ -323,8 +295,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/replacementOfWiring</link>
-        <guid isPermaLink="true">http://localhost:4000/replacementOfWiring</guid>
+        <link>http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</guid>
         
         
         <category>wiring</category>
@@ -396,8 +368,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/elecricitymeters</link>
-        <guid isPermaLink="true">http://localhost:4000/elecricitymeters</guid>
+        <link>http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</link>
+        <guid isPermaLink="true">http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</guid>
         
         
         <category>elecricity_meters</category>
