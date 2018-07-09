@@ -31,6 +31,15 @@
           </h2>
         </li>
       {% endfor %}
+      <li><h3>Цены</h3></li>
+      {% for post in site.categories.Price %}
+        <li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            
+          </h2>
+        </li>
+      {% endfor %}
     </ul>
   </div>  
 </aside>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3.2 Фурнитура часть 2"
+title:  "3.2. Фурнитура часть 2"
 date:   2017-12-27 15:30:05 +0300
 categories: "HowToChangeWiring"
 ---

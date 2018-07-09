@@ -41,7 +41,9 @@ main,
 nav,
 section,
 summary,
-iframe {
+iframe,
+.wrapper-page, 
+.header-width  {
   display: block;
 }
 

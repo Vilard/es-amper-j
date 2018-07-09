@@ -3,7 +3,7 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, ol, ul, figure, .wrapper-page {
   margin: 0;
   padding: 0; }
 
@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #eef;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -108,30 +108,61 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
-/**
- * Wrapper
- */
-.wrapper {
+.header-width {
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
+  margin: 15px auto auto 15px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
+    .header-width {
+      width: 100%;
+      padding-right: 0;
+      padding-left: 0;
+      margin: 0 auto; } }
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
+  margin: 15px auto auto 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 850px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+      max-width: -webkit-calc(900px - (30px));
+      max-width: calc(900px - (30px));
+      padding-right: 0;
+      padding-left: 0;
+      margin: 0 auto; } }
 
 .wrapper-content {
-  padding-left: 0; }
+  padding: 0 15px 0;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+  @media screen and (max-width: 850px) {
+    .wrapper-content {
+      background-color: #fff;
+      margin: 0;
+      padding-left: 15px;
+      padding-rigth: 15px; } }
+
+.home {
+  padding: 15px; }
+  @media screen and (max-width: 850px) {
+    .home {
+      padding: 15px; } }
 
 /**
  * Clearfix
  */
-.wrapper:after, .wrapper-content:after, .footer-col-wrapper:after {
+.header-width:after, .wrapper:after, .wrapper-content:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }
@@ -160,6 +191,9 @@ pre {
   color: #fff;
   margin-left: 15px; }
 
+.wrapper-page {
+  width: 100%; }
+
 /**
  * Site header
  */
@@ -168,7 +202,6 @@ pre {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background: linear-gradient(to right, #009acf 0%, #000000 52%);
-  position: fixed;
   width: 100%; }
 
 header .contact-header {
@@ -180,19 +213,20 @@ header .contact-header {
     display: inline-block; }
     header .contact-header .phone #Capa_1 {
       width: 13px;
-      height: 13px; }
-  @media screen and (max-width: 800px) {
+      height: 13px;
+      margin-left: 11px; }
+  @media screen and (max-width: 850px) {
     header .contact-header {
       display: none; } }
 header .phone {
   display: none; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     header .phone {
       display: block;
       float: left;
       margin-top: 14px;
       margin-right: 15px;
-      margin-left: 8px; }
+      margin-left: 18px; }
       header .phone #Capa_1 {
         width: 23px;
         height: 23px; } }
@@ -221,15 +255,16 @@ header .phone {
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 10px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .site-nav {
       float: none;
       right: 15px;
       border-radius: 5px;
       font-size: 1.3rem; }
       .site-nav .menu-icon {
-        margin-top: 9px;
         display: block;
+        margin-top: 9px;
+        margin-right: 13px;
         float: right;
         width: 36px;
         height: 26px;
@@ -274,6 +309,7 @@ header .phone {
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-bottom: 15px;
   font-size: 0.7em; }
   table .tablehead {
     background-color: #555;
@@ -291,7 +327,7 @@ table {
   box-shadow: 0px 0px 10px 5px #c7c7c7;
   width: auto;
   float: left; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .advanced {
       padding-left: 0;
       padding-right: 0;
@@ -334,7 +370,7 @@ iframe {
 aside {
   width: auto;
   float: right; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     aside {
       display: none; } }
   aside h3 {
@@ -353,7 +389,7 @@ footer {
     width: 15px; }
   footer .page-heading {
     display: none; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
       footer .page-heading {
         display: block;
         width: auto;
@@ -379,7 +415,7 @@ footer {
   display: block;
   float: left;
   padding-left: 15px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .contact-footer {
       margin-left: 15px;
       padding-left: 0; } }
@@ -389,13 +425,13 @@ footer {
 
 .footer-col-wrapper {
   color: #fff;
-  margin-left: -15px; }
+  margin-right: 15px; }
 
 .footer-col {
   float: left;
   margin-bottom: 15px;
   padding-left: 15px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .footer-col {
       width: 50%; } }
 
@@ -411,7 +447,7 @@ footer {
   width: -webkit-calc(45% - (30px / 2));
   width: calc(45% - (30px / 2)); }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (30px / 2));
@@ -420,7 +456,7 @@ footer {
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
@@ -429,15 +465,16 @@ footer {
  * Page content
  */
 .page-content {
-  min-height: calc(100vh - 189px);
-  padding: 15px 0; }
+  min-height: calc(100vh - 189px); }
+  @media screen and (max-width: 850px) {
+    .page-content {
+      padding: 0; } }
 
 .page-heading {
-  font-size: 20px;
-  margin-top: 120px; }
-  @media screen and (max-width: 800px) {
+  font-size: 20px; }
+  @media screen and (max-width: 850px) {
     .page-heading {
-      margin-top: 54px; } }
+      margin-top: 15px; } }
 
 .post-list {
   margin-left: 0;
@@ -458,51 +495,54 @@ footer {
  * Posts
  */
 .post {
-  margin-top: 120px;
+  background-color: #fff;
+  padding: 30px;
   width: 60%;
   float: left; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .post {
-      margin-top: 54px; } }
-  @media screen and (max-width: 800px) {
+      padding-left: 0;
+      padding-right: 0; } }
+  @media screen and (max-width: 850px) {
     .post {
-      width: 100%; } }
+      min-width: 100%; } }
 
 .post-header {
   margin-bottom: 30px; }
 
 .post-title {
+  margin-left: 10px;
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .post-title {
       font-size: 36px; } }
 
 .post-content {
   margin-bottom: 30px;
   margin-top: 30px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     .post-content {
       margin-top: 30px; } }
   .post-content h2 {
     font-size: 1.7em; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
       .post-content h2 {
         font-size: 1.5em; } }
   .post-content h3 {
     font-size: 1.5em; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
       .post-content h3 {
         font-size: 1.3em; } }
   .post-content h4 {
     font-size: 1.4em; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
       .post-content h4 {
         font-size: 1.2em; } }
   .post-content h5 {
     font-size: 1.3em; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
       .post-content h5 {
         font-size: 1.1em; } }
 

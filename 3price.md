@@ -4,77 +4,77 @@ title: Прайс
 permalink: /price/
 ---
 <table>
-	<tr class="tablehead">
-							<th>Наименование работ</th>
-		<th class="a-center">Ед. изм.</th>
-							<th class="a-center">Цена за ед. изм</th>
-	</tr>
-						<tr>
-		<th>Штробление</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">110 р.</td>
-						</tr>
-						<tr>
-							<th>Вырезание гнезд для подрозетников с установкой подрозетника</th>
-							<td class="a-center">шт.</td>
-							<td class="a-right">350 р.</td>
-						</tr>
-						<tr>
-							<th>Установка потолочной распред коробки</th>
-							<td class="a-center">шт.</td>
-							<td class="a-right">100 р.</td>
-						</tr>
-						<tr>
-							<th>Вырезание гнезд для настенных распред коробок</th>
-							<td class="a-center">шт.</td>
-							<td class="a-right">450 р.</td>
-						</tr>
-						<tr>
-							<th>Коммутация распред коробки</th>
-							<td class="a-center">шт.</td>
-							<td class="a-right">350 р.</td>
-						</tr>
-						<tr>
-							<th>Прокладка и крепление кабеля до 4 кв. мм.</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">40 р.</td>
-						</tr>
-						<tr>
-							<th>Прокладка кабеля до 10 кв. мм.</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">70 р.</td>
-						</tr>
-						<tr>
-							<th>Прокладка тв и сетевого кабеля</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">40 р.</td>
-						</tr>
-						<tr>
-							<th>Затяжка кабеля в гофру</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">70 р.</td>
-						</tr>
-						<tr>
-							<th>Распределительный щит установка и коммутация (квартирный)</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">2000-5000 р.</td>
-						</tr>
-						<tr>
-							<th>Проходное отверстие</th>
-							<td class="a-center">шт.</td>
-							<td class="a-right">100 р.</td>
-						</tr>
-						<tr>
-							<th>Установка модуля(фурнитура)</th>
-							<td class="a-center">п.м.</td>
-							<td class="a-right">100 р.</td>
-						</tr>
-						<tr>
-							<th>Диагностика/вызов/работа в щите/ВРУ</th>
-							<td class="a-center">час</td>
-							<td class="a-right">800 р.</td>
-						</tr>
-					</table>
+  <tr class="tablehead">
+	<th>Наименование работ</th>
+	<th class="a-center">Ед. изм.</th>
+	<th class="a-center">Цена за ед. изм</th>
+  </tr>
+  <tr>
+	<th>Штробление</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">110 р.</td>
+  </tr>
+  <tr>
+	<th>Вырезание гнезд для подрозетников с установкой подрозетника</th>
+	<td class="a-center">шт.</td>
+	<td class="a-right">350 р.</td>
+  </tr>
+  <tr>
+    <th>Установка потолочной распред коробки</th>
+	<td class="a-center">шт.</td>
+    <td class="a-right">100 р.</td>
+  </tr>
+  <tr>
+	<th>Вырезание гнезд для настенных распред коробок</th>
+	<td class="a-center">шт.</td>
+	<td class="a-right">450 р.</td>
+  </tr>
+  <tr>
+	<th>Коммутация распред коробки</th>
+	<td class="a-center">шт.</td>
+ 	<td class="a-right">350 р.</td>
+  </tr>
+  <tr>
+	<th>Прокладка и крепление кабеля до 4 кв. мм.</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">40 р.</td>
+  </tr>
+  <tr>
+	<th>Прокладка кабеля до 10 кв. мм.</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">70 р.</td>
+  </tr>
+  <tr>
+	<th>Прокладка тв и сетевого кабеля</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">40 р.</td>
+  </tr>
+  <tr>
+	<th>Затяжка кабеля в гофру</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">70 р.</td>
+  </tr>
+  <tr>
+	<th>Распределительный щит установка и коммутация (квартирный)</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">2000-5000 р.</td>
+  </tr>
+  <tr>
+	<th>Проходное отверстие</th>
+	<td class="a-center">шт.</td>
+	<td class="a-right">100 р.</td>
+  </tr>
+  <tr>
+	<th>Установка модуля(фурнитура)</th>
+	<td class="a-center">п.м.</td>
+	<td class="a-right">100 р.</td>
+  </tr>
+  <tr>
+ 	<th>Диагностика/вызов/работа в щите/ВРУ</th>
+	<td class="a-center">час</td>
+	<td class="a-right">800 р.</td>
+  </tr>
+</table>
 <p>
 *п.м. - Погонный метр, единица измерения количества длинномерных объектов, соответствующая куску или участку длиной 1 метр. 
-					</p> 
+</p> 
