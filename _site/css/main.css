@@ -153,11 +153,9 @@ pre {
       padding-left: 15px;
       padding-rigth: 15px; } }
 
-.home {
-  padding: 15px; }
-  @media screen and (max-width: 850px) {
-    .home {
-      padding: 15px; } }
+@media screen and (max-width: 850px) {
+  .home {
+    padding: 15px; } }
 
 /**
  * Clearfix
