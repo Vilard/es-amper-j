@@ -412,7 +412,6 @@ footer {
     width: 60%;
     float: left;
         @include media-query($on-laptop) {
-            // margin-top: $spacing-unit*1.8;
             padding-left: 0;
             padding-right: 0;
         }

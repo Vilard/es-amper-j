@@ -20,6 +20,9 @@ body {
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
+  @media screen and (max-width: 850px) {
+    body {
+      background-color: #fff; } }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
