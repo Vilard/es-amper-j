@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Поиск оптимального расположения точек"
 title:  "2. План"
 date:   2017-12-28 15:30:05 +0300
 categories: "HowToChangeWiring"

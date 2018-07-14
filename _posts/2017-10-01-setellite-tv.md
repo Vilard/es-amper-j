@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Что нужно знать о спутниковом ТВ?"
 title: Спутниковое ТВ
 date:   2017-10-01 23:50:05 +0300
 categories: "wiring"

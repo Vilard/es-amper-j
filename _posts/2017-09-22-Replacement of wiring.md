@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Подготовительные этапы замены проводки"
 title:  "Замена проводки"
 date:   2017-09-22 23:50:05 +0300
 categories: "wiring"

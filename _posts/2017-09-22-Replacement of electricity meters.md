@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Выбор однофазного счетчика"
 title:  "Замена счетчика"
 date:   2017-09-22 23:50:05 +0300
 categories: "elecricity_meters"

@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure, .wrapper-page {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    // background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -181,7 +181,6 @@ pre {
     margin: $spacing-unit * 0.5 auto auto $spacing-unit * 0.5;
     margin-right: auto;
     margin-left: auto;
-    // padding-top: $spacing-unit * 4.3;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;

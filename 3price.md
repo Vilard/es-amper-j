@@ -1,5 +1,6 @@
 ---
 layout: page
+namepage: "Прайс лист на электромонтажные работы"
 title: Прайс
 permalink: /price/
 ---

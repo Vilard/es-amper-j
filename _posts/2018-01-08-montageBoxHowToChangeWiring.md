@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Какие бывают монтажные коробки?"
 title:  "4. Монтажные коробки"
 date:   2017-09-22 23:50:05 +0300
 categories: "HowToChangeWiring"

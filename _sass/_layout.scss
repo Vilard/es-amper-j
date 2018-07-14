@@ -408,7 +408,7 @@ footer {
 
 .post {
     background-color: $bgColorContent;
-    padding: $spacing-unit;
+    padding: 0 $spacing-unit;
     width: 60%;
     float: left;
         @include media-query($on-laptop) {
@@ -419,26 +419,26 @@ footer {
             min-width: 100%;
         }
 }
-.post-header {
-    margin-bottom: $spacing-unit;
-}
 
 .post-title {
+    display: block;
+    background-color: #eec;
+    padding: 15px;
+    margin-top: 15px; 
     margin-left: 10px;
-    font-size: 42px;
+    font-size: 2rem;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;
+        margin-right:10px;
     }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
-    margin-top: $spacing-unit;
         @include media-query($on-laptop) {
-            margin-top: $spacing-unit;
         }
         
     h2 {

@@ -13,7 +13,6 @@ dl, dd, ol, ul, figure, .wrapper-page {
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #eef;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -497,7 +496,7 @@ footer {
  */
 .post {
   background-color: #fff;
-  padding: 30px;
+  padding: 0 30px;
   width: 60%;
   float: left; }
   @media screen and (max-width: 850px) {
@@ -508,24 +507,22 @@ footer {
     .post {
       min-width: 100%; } }
 
-.post-header {
-  margin-bottom: 30px; }
-
 .post-title {
+  display: block;
+  background-color: #eec;
+  padding: 15px;
+  margin-top: 15px;
   margin-left: 10px;
-  font-size: 42px;
+  font-size: 2rem;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 850px) {
     .post-title {
-      font-size: 36px; } }
+      font-size: 36px;
+      margin-right: 10px; } }
 
 .post-content {
-  margin-bottom: 30px;
-  margin-top: 30px; }
-  @media screen and (max-width: 850px) {
-    .post-content {
-      margin-top: 30px; } }
+  margin-bottom: 30px; }
   .post-content h2 {
     font-size: 1.7em; }
     @media screen and (max-width: 850px) {

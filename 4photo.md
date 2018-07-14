@@ -1,5 +1,6 @@
 ---
 layout: page
+namepage: "Фотографии наших работ"
 title: Фото работ
 permalink: /Photo/
 ---

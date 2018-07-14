@@ -1,5 +1,6 @@
 ---
 layout: page
+namepage: "Электромонтажный калькултор"
 title: Калькулятор
 permalink: /calc/
 ---

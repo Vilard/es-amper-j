@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "8. Какой автомат выбрать?"
+namepost: "Какой автомат выбрать?"
+title:  "8. Выбор автомата"
 date:   2017-09-21 17:20:02 +0300
 categories: "HowToChangeWiring"
 ---

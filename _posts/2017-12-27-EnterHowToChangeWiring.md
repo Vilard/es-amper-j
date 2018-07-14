@@ -1,5 +1,6 @@
 ---
 layout: post
+namepost: "Подготовка к замене проводки"
 title:  "1. Введение"
 date:   2017-12-29 15:31:05 +0300
 categories: "HowToChangeWiring"
