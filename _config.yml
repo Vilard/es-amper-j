@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://es-amper.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
-permalink: /:title
+# permalink: /:title
 vk: vkontakte
 im: instagram
 

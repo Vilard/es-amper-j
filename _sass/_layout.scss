@@ -2,9 +2,6 @@
     width: 100%;
 }
 
-/**
- * Site header
- */
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -72,7 +69,6 @@ header {
     .menu-icon {
         display: none;
     }
-
     .page-link {
         color: $text-white-color;
         line-height: $base-line-height;
@@ -172,7 +168,6 @@ table {
 }
 
 .advanced {
-    // margin: 0 20px 20px;
     padding: 20px;
     box-shadow: 0px 0px 10px 5px #c7c7c7;
     width: auto;
@@ -223,12 +218,7 @@ iframe {
   height: 45vh;
 }
 
-/**
- * Site bar
- */
-
 aside {
-    // background-color: $bgColorMenu;
     width: auto;
     float: right;
     @include media-query($on-palm) {
@@ -238,20 +228,6 @@ aside {
         font-size: 1.1em;
     }
 }
-
-/**
- * Site comment
- */
-
-// .com {
-//     display:block;
-
-// }
-
-
-/**
- * Site footer
- */
 
 footer {
     background-color: $bg-footer;
@@ -293,7 +269,7 @@ footer {
     margin-left: 0;
     
 }
-    //телефон в футере
+
 .contact-footer {
     display: block;
     float: left;
@@ -308,7 +284,6 @@ footer {
 }
 
 .footer-col-wrapper {
-    // font-size: 1rem;
     color: $text-white-color;
     margin-right: $spacing-unit / 2;
     @extend %clearfix;
@@ -359,14 +334,8 @@ footer {
     }
 }
 
-
-
-/**
- * Page content
- */
 .page-content {
     min-height: calc(100vh - 189px);
-    // padding: $spacing-unit*4.3 $spacing-unit/2 0;
     @include media-query($on-laptop) {
         padding: 0;
     }
@@ -374,7 +343,6 @@ footer {
 
 .page-heading {
     font-size: 20px;
-    // margin-top: $spacing-unit*4;
         @include media-query($on-laptop) {
             margin-top: $spacing-unit*0.5;
         }
@@ -383,7 +351,6 @@ footer {
 .post-list {
     margin-left: 0;
     list-style: none;
-
     > li {
         margin-bottom: $spacing-unit/2;
     }
@@ -400,12 +367,6 @@ footer {
     font-size: 1rem;
 }
 
-
-
-/**
- * Posts
- */
-
 .post {
     background-color: $bgColorContent;
     padding: 0 $spacing-unit;
@@ -419,7 +380,6 @@ footer {
             min-width: 100%;
         }
 }
-
 .post-title {
     display: block;
     background-color: #eec;

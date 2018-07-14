@@ -1,7 +1,7 @@
 ---
 layout: page
 namepage: "Услуги электрика."
-title: Главная
+title: Главная страница
 permalink: /main/
 ---
 <ul>

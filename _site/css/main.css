@@ -1,15 +1,9 @@
-/**
- * Reset some basic elements
- */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure, .wrapper-page {
   margin: 0;
   padding: 0; }
 
-/**
- * Basic styling
- */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
@@ -23,34 +17,22 @@ body {
     body {
       background-color: #fff; } }
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
-/**
- * Images
- */
 img {
   max-width: 100%;
   vertical-align: middle; }
 
-/**
- * Figures
- */
 figure > img {
   display: block; }
 
 figcaption {
   font-size: 14px; }
 
-/**
- * Lists
- */
 ul, ol {
   margin-left: 30px; }
 
@@ -58,15 +40,9 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-/**
- * Headings
- */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400; }
 
-/**
- * Links
- */
 a {
   color: #2a7ae2;
   text-decoration: none; }
@@ -76,9 +52,6 @@ a {
     color: #111;
     text-decoration: underline; }
 
-/**
- * Blockquotes
- */
 blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
@@ -89,9 +62,6 @@ blockquote {
   blockquote > :last-child {
     margin-bottom: 0; }
 
-/**
- * Code formatting
- */
 pre,
 code {
   font-size: 15px;
@@ -125,9 +95,6 @@ pre {
       padding-left: 0;
       margin: 0 auto; } }
 
-/**
- * Wrapper
- */
 .wrapper {
   max-width: -webkit-calc(900px - (30px * 2));
   max-width: calc(900px - (30px * 2));
@@ -159,17 +126,11 @@ pre {
   .home {
     padding: 15px; } }
 
-/**
- * Clearfix
- */
 .header-width:after, .wrapper:after, .wrapper-content:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }
 
-/**
- * Icons
- */
 .icon > svg {
   display: inline-block;
   width: 32px;
@@ -194,9 +155,6 @@ pre {
 .wrapper-page {
   width: 100%; }
 
-/**
- * Site header
- */
 .site-header {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
@@ -364,9 +322,6 @@ iframe {
   min-height: 300px;
   height: 45vh; }
 
-/**
- * Site bar
- */
 aside {
   width: auto;
   float: right; }
@@ -376,12 +331,6 @@ aside {
   aside h3 {
     font-size: 1.1em; }
 
-/**
- * Site comment
- */
-/**
- * Site footer
- */
 footer {
   background-color: #000; }
   footer .phone #Capa_1 {
@@ -461,9 +410,6 @@ footer {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-/**
- * Page content
- */
 .page-content {
   min-height: calc(100vh - 189px); }
   @media screen and (max-width: 850px) {
@@ -491,9 +437,6 @@ footer {
   display: block;
   font-size: 1rem; }
 
-/**
- * Posts
- */
 .post {
   background-color: #fff;
   padding: 0 30px;
@@ -544,9 +487,6 @@ footer {
       .post-content h5 {
         font-size: 1.1em; } }
 
-/**
- * Syntax highlighting styles
- */
 .highlight {
   background: #fff; }
   .highlighter-rouge .highlight {
@@ -640,10 +580,10 @@ footer {
     color: #008080; }
   .highlight .ow {
     font-weight: bold; }
-  .highlight .w {
-    color: #bbb; }
   .highlight .mf {
     color: #099; }
+  .highlight .w {
+    color: #bbb; }
   .highlight .mh {
     color: #099; }
   .highlight .mi {
