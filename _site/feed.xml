@@ -3,10 +3,10 @@
   <channel>
     <title>Электрик г. Череповец</title>
     <description>Замена и монтаж электропроводки. Вызов электрика в Череповце. тел. 74-24-05</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jul 2018 13:11:41 +0300</pubDate>
-    <lastBuildDate>Sat, 14 Jul 2018 13:11:41 +0300</lastBuildDate>
+    <link>http://es-amper.com/</link>
+    <atom:link href="http://es-amper.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Jul 2018 14:12:35 +0300</pubDate>
+    <lastBuildDate>Sat, 14 Jul 2018 14:12:35 +0300</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -50,8 +50,8 @@
 &lt;p&gt;Для небольшого объема работ цена всегда будет почасовая и в большинстве случаев достаточно высокая.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Feb 2018 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/price/2018/02/27/price.html</link>
-        <guid isPermaLink="true">http://localhost:4000/price/2018/02/27/price.html</guid>
+        <link>http://es-amper.com/price</link>
+        <guid isPermaLink="true">http://es-amper.com/price</guid>
         
         
         <category>Price</category>
@@ -97,8 +97,8 @@
 
 </description>
         <pubDate>Fri, 29 Dec 2017 15:31:05 +0300</pubDate>
-        <link>http://localhost:4000/howtochangewiring/2017/12/29/EnterHowToChangeWiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/29/EnterHowToChangeWiring.html</guid>
+        <link>http://es-amper.com/EnterHowToChangeWiring</link>
+        <guid isPermaLink="true">http://es-amper.com/EnterHowToChangeWiring</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -119,8 +119,8 @@
 Причина установки щита в квартире достаточно проста, в этажный щит нет возможности вместить то количество необходимой автоматики которое необходимо для защиты кабелей, человека и аппаратуры. В случаях достаточного места возникают проблемы с протяжкой необходимого количества кабелей с существующих шахтах, но об этом будет в следующих статьях.&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/howtochangewiring/2017/12/28/PlaningHowToChangeWiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/28/PlaningHowToChangeWiring.html</guid>
+        <link>http://es-amper.com/PlaningHowToChangeWiring</link>
+        <guid isPermaLink="true">http://es-amper.com/PlaningHowToChangeWiring</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -145,8 +145,8 @@
 &lt;p&gt;Выключатели обычно удобнее всего располагать внутри комнаты со стороны дверной ручки, но в некоторых случаях есть исключения, одним из самых часто встречающихся это туалет и ванна.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/howtochangewiring/2017/12/27/furnitureP1HowToChangeWiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/27/furnitureP1HowToChangeWiring.html</guid>
+        <link>http://es-amper.com/furnitureP1HowToChangeWiring</link>
+        <guid isPermaLink="true">http://es-amper.com/furnitureP1HowToChangeWiring</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -197,8 +197,8 @@
 
 </description>
         <pubDate>Wed, 27 Dec 2017 15:30:05 +0300</pubDate>
-        <link>http://localhost:4000/howtochangewiring/2017/12/27/furnitureP2HowToChangeWiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/12/27/furnitureP2HowToChangeWiring.html</guid>
+        <link>http://es-amper.com/furnitureP2HowToChangeWiring</link>
+        <guid isPermaLink="true">http://es-amper.com/furnitureP2HowToChangeWiring</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -225,8 +225,8 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/wiring/2017/10/01/setellite-tv.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wiring/2017/10/01/setellite-tv.html</guid>
+        <link>http://es-amper.com/setellite-tv</link>
+        <guid isPermaLink="true">http://es-amper.com/setellite-tv</guid>
         
         
         <category>wiring</category>
@@ -249,8 +249,8 @@
 Производят достаточно много видов коробок, имеет смысл остановиться на материале изготовления и габаритах, материал не должен быть хрупким для того чтобы коробку можно было пробурить перфоратором, для монтажа ее к потолку, габаритные размены 100х100 мм, в большинстве случаев этого достаточно.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/howtochangewiring/2017/09/22/montageBoxHowToChangeWiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/howtochangewiring/2017/09/22/montageBoxHowToChangeWiring.html</guid>
+        <link>http://es-amper.com/montageBoxHowToChangeWiring</link>
+        <guid isPermaLink="true">http://es-amper.com/montageBoxHowToChangeWiring</guid>
         
         
         <category>HowToChangeWiring</category>
@@ -340,8 +340,8 @@
 &lt;p&gt;При монтаже проводки по полу, например при прикручивании плинтусов, можно попасть в провод, так как его не видно, в итоге нужно снять ламинат или другое чистовое покрытие, вскрыть пол и поменять провод, после замены провода придеться поменять обои, в случае с потолком, при монтаже багета натяжного потолка, провод видно, поэтому пробить его можно только намеренно, и даже в этом случае придется поменять только обои, после демонтажа и замены провода.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/ceiling-or-floor.html</guid>
+        <link>http://es-amper.com/ceiling-or-floor</link>
+        <guid isPermaLink="true">http://es-amper.com/ceiling-or-floor</guid>
         
         
         <category>wiring</category>
@@ -367,8 +367,8 @@
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wiring/2017/09/22/Replacement-of-wiring.html</guid>
+        <link>http://es-amper.com/Replacement-of-wiring</link>
+        <guid isPermaLink="true">http://es-amper.com/Replacement-of-wiring</guid>
         
         
         <category>wiring</category>
@@ -440,8 +440,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 23:50:05 +0300</pubDate>
-        <link>http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</link>
-        <guid isPermaLink="true">http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</guid>
+        <link>http://es-amper.com/Replacement-of-electricity-meters</link>
+        <guid isPermaLink="true">http://es-amper.com/Replacement-of-electricity-meters</guid>
         
         
         <category>elecricity_meters</category>
