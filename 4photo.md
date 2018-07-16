@@ -1,5 +1,6 @@
 ---
 layout: page
+navigationName: "Фото работ"
 namepage: "Фотографии наших работ"
 title: Фото работ
 permalink: /Photo/

@@ -1,13 +1,11 @@
 <aside>
-  <div class="home">
-      
+  <div class="home">  
     <ul class="post-list">
         <li><h3>Проводка своими руками</h3></li>
       {% for post in site.categories.HowToChangeWiring %}
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            
           </h2>
         </li>
       {% endfor %}
@@ -16,7 +14,6 @@
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            
           </h2>
         </li>
       {% endfor %}
@@ -25,7 +22,6 @@
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            
           </h2>
         </li>
       {% endfor %}
@@ -34,7 +30,6 @@
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            
           </h2>
         </li>
       {% endfor %}

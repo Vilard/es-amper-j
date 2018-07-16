@@ -1,5 +1,6 @@
 ---
 layout: page
+navigationName: "Частые вопросы"
 namepage: "Ответы на самые распространенные вопросы"
 title: Частые вопросы
 permalink: /faq/

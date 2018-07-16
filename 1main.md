@@ -1,6 +1,7 @@
 ---
 layout: page
 namepage: "Услуги электрика."
+navigationName: "Главная"
 title: Главная страница
 permalink: /main/
 ---

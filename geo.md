@@ -1,5 +1,6 @@
 ---
 layout: page
+navigationName: "География"
 namepage: "География выполненных работ"
 title: География
 permalink: /geo/

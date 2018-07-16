@@ -1,5 +1,6 @@
 ---
 layout: page
+navigationName: "Калькулятор"
 namepage: "Электромонтажный калькултор"
 title: Калькулятор
 permalink: /calc/

@@ -1,5 +1,6 @@
 ---
 layout: page
+navigationName: "Прайс"
 namepage: "Прайс лист на электромонтажные работы"
 title: Прайс лист
 permalink: /price/

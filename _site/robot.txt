@@ -1,0 +1,3 @@
+User-agent: *
+Host: es-amper.com
+#добавить карту сайта
