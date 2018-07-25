@@ -19,6 +19,8 @@ url: "http://es-amper.com" # the base hostname & protocol for your site
 vk: vkontakte
 im: instagram
 
-
 # Build settings
 markdown: kramdown
+
+plagins: 
+ - jekyll-sitemap
