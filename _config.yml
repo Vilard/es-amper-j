@@ -24,3 +24,4 @@ markdown: kramdown
 
 plagins: 
  - jekyll-sitemap
+ - jekyll-redirect-from

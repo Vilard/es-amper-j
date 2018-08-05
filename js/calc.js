@@ -108,7 +108,7 @@ $(document).ready(function() {
 		var $summ = $softcalc * $price;
 		$('.hide').hide();*/
 		//console.log($electrical_box_price);
-		console.log($electrical_board);
+		// console.log($electrical_board);
 
 		$('#result').click(function(){
 			$('span#final_price').text($summ);

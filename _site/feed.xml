@@ -5,9 +5,34 @@
     <description>Замена и монтаж электропроводки. Вызов электрика в Череповце. тел. 74-24-05</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jul 2018 09:54:34 +0200</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 09:54:34 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Aug 2018 10:49:58 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Aug 2018 10:49:58 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Сетрифицированный?</title>
+        <description>&lt;p&gt;Некоторое время назад в нашем обиходе появилось понятие сертифицированный специалист, что подразумевается под этим понятием редко кто-то задумывается. На одном из вызовов, у меня начали спрашивать сертификаты.&lt;/p&gt;
+
+&lt;p&gt;Решил разобраться в вопросе.&lt;/p&gt;
+
+&lt;p&gt;Что такое сертифицированный - это прошедший проверку товар, или человек на какие-либо, качества, характеристики или знания. Иными словами человек с дипломом по специальности, технически является сертифицированным.&lt;/p&gt;
+
+&lt;p&gt;Что такое Специалист - это квалификация которая присваивается после обучения.&lt;/p&gt;
+
+&lt;p&gt;Если подходить к вопросу технически, то законченное специальное или высшее образование, делает специалистом в данной области, а сертификатом является диплом об образовании.&lt;/p&gt;
+
+&lt;p&gt;Соответственно люди которые занимаются не своей специальностью технически являться, специалистами не могут.&lt;/p&gt;
+
+&lt;p&gt;В этой статье рассматривалась формальная сторона вопроса, естественно реальная жизнь несколько отличается.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 22:50:05 +0200</pubDate>
+        <link>http://localhost:4000/wiring/2018/07/26/certificate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wiring/2018/07/26/certificate.html</guid>
+        
+        
+        <category>wiring</category>
+        
+      </item>
     
       <item>
         <title>Цена монтажа</title>
@@ -372,79 +397,6 @@
         
         
         <category>wiring</category>
-        
-      </item>
-    
-      <item>
-        <title>Замена счетчика</title>
-        <description>&lt;p&gt;Существует несколько причин замены электросчетчика, наиболее распространенные это поломка счетчика и несоответствие классу точности счетчика.
-
-&lt;h3&gt;Типы счетчиков.&lt;/h3&gt;
-&lt;p&gt;Существует два типа электросчетчиков: индукционные и электронные.
-Индукционными в народе принято называть &quot;дисковые счетчики&quot;, такие счетчики обычно подлежат замене.
-Электронные счетчики в последнее время приобрели широкое распространение.&lt;/p&gt;
-&lt;h3&gt;Чем отличаются счетчики?&lt;/h3&gt;
-&lt;p&gt;Отличаются счетчики по способу монтажа, существует 2 типа креплений: винтовые и на DIN-рейку.
-На самом деле, классифицировать электросчетчики можно по достаточно большому количеству параметров, для простоты ниже будут приведены модели которые рекомендуются к покупке.&lt;/p&gt;
-&lt;h3&gt;Какой счетчик купить?&lt;/h3&gt;
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;center&quot; src=&quot;../../../../img/merc201.png&quot; alt=&quot;Электромонтажные работы в квартире&quot; /&gt;
-    &lt;figcaption&gt;Меркурий 201&lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;center&quot; src=&quot;../../../../img/mercplate.png&quot; alt=&quot;Монтажная пластина&quot; /&gt;
-    &lt;figcaption&gt;Монтажная пластина для Меркурий 201&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Меркурий 201 - универсальный счетчик, его можно крепить как на DIN-рейку так и винтами, для монтажа винтами следует купить монтажную пластину или DIN-рейку для крепежа на рейку.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;center&quot; src=&quot;../../../../img/neva1s0.png&quot; alt=&quot;Нева 101&quot; /&gt;
-    &lt;figcaption&gt;Нева 101&lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/neva103.png&quot; alt=&quot;Нева 103&quot; /&gt;
-  	&lt;figcaption&gt;Нева 103&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Нева 101 1S0 - данный счетчик устанавливается только на винты, никаких дополнительных комплектующих не требуется при установке в этажном щите.&lt;/li&gt;
-  &lt;li&gt;Нева 103 - устанавливается только на DIN-рейку.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;figure&gt;
-  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/ce101.png&quot; alt=&quot;CE 101&quot; /&gt;
-  	&lt;figcaption&gt;CE 101&lt;/figcaption&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-  	&lt;img class=&quot;center&quot; src=&quot;../../../../img/ce200s6.png&quot; alt=&quot;CE 200 S6&quot; /&gt;
-  	&lt;figcaption&gt;CE 200 S6&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;CE 101-R5 и CE 101-R5.1 крепятся на DIN-рейку.&lt;/li&gt;
-  &lt;li&gt;CE200-S4 и CE200-S6 крепятся винтами.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;DIN-рейка выглядит следующим образом.&lt;/p&gt;
-&lt;div class=&quot;gallery&quot;&gt;
-  &lt;figure&gt;
-    &lt;img class=&quot;center&quot; src=&quot;../../../../img/DINl.png&quot; alt=&quot;DIN-рейка&quot; /&gt;
-    &lt;figcaption&gt; DIN-рейка.&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-&lt;p&gt;Как вы уже поняли при покупке электросчетчика крепящемуся на винты дополнительные комплектующие не требуются кроме электросчетчика Меркурий. 
-Счетчики Нева и CE имеют гарантию 5 лет, Меркурий 3 года.&lt;/p&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Sep 2017 22:50:05 +0200</pubDate>
-        <link>http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</link>
-        <guid isPermaLink="true">http://localhost:4000/elecricity_meters/2017/09/22/Replacement-of-electricity-meters.html</guid>
-        
-        
-        <category>elecricity_meters</category>
         
       </item>
     

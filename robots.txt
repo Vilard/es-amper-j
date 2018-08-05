@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /atach
 Host: es-amper.com
-#добавить карту сайта
+Sitemap: http://es-amper.com/sitemap.xml
